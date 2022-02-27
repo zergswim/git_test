@@ -1,3 +1,4 @@
 Jerry bugcheck
 main
 last com
+test add
